@@ -1,0 +1,138 @@
+.Hell{
+  
+  background-color:#C84B31;
+  color:yellow;
+  text-align:center;
+  margin-top:0;
+  margin-left:10;
+  margin-right:10;
+  margin-bottom:10;
+  padding:1px;
+}
+.bo{
+  background-color:orange;
+  
+}
+.child{
+  color:#4F0E0E;
+  font-size:2em;
+  font-weight:bold;
+  text-shadow: 4px 4px 3px;
+}
+.the{
+  color:#F9F9F9;
+  font-size:1.5em;
+  font-weight:italic;
+  margin-top:none;
+  text-shadow:none;
+}
+
+.asp{
+  ul 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #66DE93;
+}
+.Home{
+  display: block;
+  width: 60px;
+  float: left;
+  
+}
+.news{
+  display: block;
+  width: 60px;
+  float: left;
+}
+.contact{
+  display: block;
+  width: 60px;
+  float: left;
+  margin-top:0;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #52006A;
+}
+.photo{
+  margin-right:0;
+  padding:0;
+}
+.moon{
+ color:#CD113B;
+  font-size:2em;
+  font-weight:bold;
+  text-shadow: 4px 4px 3px;
+  text-align:center;
+  text-decoration:underline;
+}
+.fe{
+  color:#4F0E0E;
+  font-size:2em;
+  font-weight:bold;
+  text-shadow: 4px 4px 3px;
+}
+.mo{
+  color:#F9F9F9;
+  font-size:1.5em;
+  font-weight:italic;
+  margin-top:none;
+  text-shadow:none;
+}
+.or{
+  color:#4F0E0E;
+  font-size:2em;
+  font-weight:bold;
+  text-shadow: 4px 4px 3px;
+}
+.li{
+  color:#F9F9F9;
+  font-size:1.5em;
+  font-weight:italic;
+  margin-top:none;
+  text-shadow:none;
+}
+.ph{
+   color:#4F0E0E;
+  font-size:2em;
+  font-weight:bold;
+  text-shadow: 4px 4px 3px;
+}
+.wh{
+  color:#F9F9F9;
+  font-size:1.5em;
+  font-weight:italic;
+  margin-top:none;
+  text-shadow:none;
+}
+.ob{
+  color:#4F0E0E;
+  font-size:2em;
+  font-weight:bold;
+  text-shadow: 4px 4px 3px;
+}
+.pe{
+   color:#F9F9F9;
+  font-size:1.5em;
+  font-weight:italic;
+  margin-top:none;
+  text-shadow:none;
+}
